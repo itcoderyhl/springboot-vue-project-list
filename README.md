@@ -7,5 +7,8 @@
 #### 可提供所有运行软件、远程安装、技术答疑等服务，帮您快速搞定毕业设计或者课程设计。
 
 ## 毕业设计成品清单
-
-更新中，敬请期待....
+| 序号 | 项目                                  | github地址                                                   |
+| ---- | ------------------------------------- | ------------------------------------------------------------ |
+| 001  | java+springboot+mysql水电管理系统     | [https://github.com/itcoderyhl/water-elec-bill](https://github.com/itcoderyhl/water-elec-bill) |
+| 002  | java+springboot+mysql小区宠物管理系统 | [https://github.com/itcoderyhl/petmgr](https://github.com/itcoderyhl/petmgr) |
+| 003  | java+springboot+mysql校园跑腿管理系统 | [https://github.com/itcoderyhl/kuaidi](https://github.com/itcoderyhl/kuaidi) |
