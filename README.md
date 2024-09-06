@@ -8,13 +8,13 @@
 
 ## 毕业设计成品清单
 
-序号	项目	github地址
-| 序号 | 项目                                                         | github地址                                    |
+| 编号 | 项目                                                         | github地址                                    |
 | ---- | ------------------------------------------------------------ | --------------------------------------------- |
 | 001  | [java+springboot+mysql水电管理系统](http://www.xiaoniucr.com/project/view/526.html) | https://github.com/itcoderyhl/water-elec-bill |
 | 002  | [java+springboot+mysql小区宠物管理系统](http://www.xiaoniucr.com/project/view/536.html) | https://github.com/itcoderyhl/petmgr          |
 | 003  | [java+springboot+mysql校园跑腿管理系统](http://www.xiaoniucr.com/project/view/525.html) | https://github.com/itcoderyhl/kuaidi          |
 | 004  | [java+springboot+mysql理发会员管理系统](http://www.xiaoniucr.com/project/view/540.html) | https://github.com/itcoderyhl/member          |
-| 005  | [java+springboot+mysql疫苗预约管理系统（源码+文档）](http://www.xiaoniucr.com/project/view/518.html) | https://github.com/itcoderyhl/vaccine         |
-
-
+| 005  | [java+springboot+mysql疫苗预约管理系统（源码+论文）](http://www.xiaoniucr.com/project/view/518.html) | https://github.com/itcoderyhl/vaccine         |
+| 006  | [java+springboot+mysql智慧办公OA管理系统](http://www.xiaoniucr.com/project/view/550.html) | https://github.com/itcoderyhl/OA              |
+| 007  | [java+springboot+mysql疫情物资管理系统](http://www.xiaoniucr.com/project/view/549.html) | https://github.com/itcoderyhl/Material        |
+| 008  | [java+springboot+mysql校园宿舍报修管理系统](http://www.xiaoniucr.com/project/view/548.html) | https://github.com/itcoderyhl/dormfix         |
